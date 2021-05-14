@@ -1,0 +1,21 @@
+* e791ad5 (HEAD -> master) deleting all levels
+* d3a8400 delete
+* cedb874 did that deletion
+* 7d5730d atualizando fora do git
+* e7cd301 adding file back JP
+* b589911 moving file 3 to 4
+* f1fa874 test JP
+* 49390c5 moving file to 3
+* 1a1d21b new file 2
+* 677236c level 3 file
+* 9ded95e adding those files
+* 64f1ca7 more one please
+* 40ed796 adding new file
+* 8042d39 adding more text
+* f779350 (origin/master, origin/HEAD) New commit from JP
+*   4beb7f0 Merge pull request #6 from jasongtaylor/feature-readme
+|\  
+| * e73f914 Adding Purpose section to README
+| * 34f563b Adding README file
+|/  
+* 5c05047 Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
